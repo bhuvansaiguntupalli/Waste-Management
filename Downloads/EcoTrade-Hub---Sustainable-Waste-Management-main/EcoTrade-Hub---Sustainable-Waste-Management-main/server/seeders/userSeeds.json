@@ -1,0 +1,38 @@
+[
+    {
+        "firstName": "Vidal",
+        "lastName": "Maza",
+        "company": "Guitar Co.",
+        "username": "vidalmaza",
+        "email": "vidalmaza@fakemail.com",
+        "password": "pass12345",
+        "userType": "Seller"
+    },
+    {
+        "firstName": "Joe",
+        "lastName": "Vidal",
+        "company": "Beer Co.",
+        "username": "joevidal",
+        "email": "joevidal@fakemail.com",
+        "password": "pass12345",
+        "userType": "Seller"
+    },
+    {
+        "firstName": "Jose",
+        "lastName": "Alonso",
+        "company": "Recycle Tech Co.",
+        "username": "josealonso",
+        "email": "josealonso@fakemail.com",
+        "password": "pass12345",
+        "userType": "Recycler"
+    },
+    {
+        "firstName": "Alonso",
+        "lastName": "Maza",
+        "company": "Plastic Experts Co.",
+        "username": "alonsomaza",
+        "email": "alonsomaza@fakemail.com",
+        "password": "pass12345",
+        "userType": "Recycler"
+    }
+]

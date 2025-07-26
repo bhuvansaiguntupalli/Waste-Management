@@ -1,0 +1,68 @@
+[
+    {
+        "seller": "Guitar Co.",
+        "email": "vidalmaza@fakemail.com",
+        "palletQty": 93,
+        "price": 14272.43,
+        "material": "HDPE",
+        "dimension": "48\" x 40\"",
+        "address": "fakeblvd 34, Tultitlan",
+        "state": "Estado de México",
+        "image": "damaged-pallets-1.jpeg"
+    },
+    {
+        "seller": "Beer Co.",
+        "email": "joevidal@fakemail.com",
+        "palletQty": 78,
+        "price": 11970.43,
+        "material": "HDPE",
+        "dimension": "48\" x 40\"",
+        "address": "fakestreet 83, Cuautitlan",
+        "state": "Estado de México",
+        "image": "damaged-pallets-2.jpeg"
+    },
+    {
+        "seller": "Guitar Co.",
+        "email": "vidalmaza@fakemail.com",
+        "palletQty": 108,
+        "price": 21229.78,
+        "material": "HDPE",
+        "dimension": "48\" x 48\"",
+        "address": "fakeavenue 26, El Marquez",
+        "state": "Querétaro",
+        "image": "damaged-pallets-3.jpeg"
+    },
+    {
+        "seller": "Beer Co.",
+        "email": "joevidal@fakemail.com",
+        "palletQty": 64,
+        "price": 12580.61,
+        "material": "PP",
+        "dimension": "48\" x 48\"",
+        "address": "fakedrive 46, Calamanda",
+        "state": "Querétaro",
+        "image": "damaged-pallets-4.jpeg"
+    },
+    {
+        "seller": "Guitar Co.",
+        "email": "vidalmaza@fakemail.com",
+        "palletQty": 59,
+        "price": 9725.91,
+        "material": "PP",
+        "dimension": "48\" x 40\"",
+        "address": "fakeroad 82, Azcapotzalco",
+        "state": "CDMX",
+        "image": "damaged-pallets-5.jpeg"
+    },
+    {
+        "seller": "Beer Co.",
+        "email": "joevidal@fakemail.com",
+        "palletQty": 120,
+        "price": 18416.04,
+        "material": "HDPE",
+        "dimension": "48\" x 40\"",
+        "address": "fakedrive 14, Salinas Victoria",
+        "state": "Nuevo León",
+        "image": "damaged-pallets-6.jpeg"
+    }
+]
