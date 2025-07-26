@@ -117,8 +117,8 @@ EcoTrade Hub promotes the circular economy by:
 - **Passionate about Sustainable Technology**
 
 ### Contact Information
-- **GitHub**: [srirambandlamudi](https://github.com/srirambandlamudi)
-- **LinkedIn**: [sriram-bandlamudi](https://www.linkedin.com/in/sriram-bandlamudi)
+- **GitHub**: [bhuvansaiguntupalli](https://github.com/bhuvansaiguntupalli)
+- **LinkedIn**: [Bhuvan sai Guntupalli](https://www.linkedin.com/in/bhuvansaig1/)
 
 ## 📄 License
 
